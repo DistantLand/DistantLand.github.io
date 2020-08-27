@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nathaniel Chen",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
@@ -9,15 +9,15 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60440",
+      "city": "Bolingbrook",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "DistantLand",
         "url": "http://github.com/changeme"
       },
       {
