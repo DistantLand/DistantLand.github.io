@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nathaniel Chen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://DistantLand.github.io/images/face0.jpg",
     "email": "nchen01@aurora.edu",
     "phone": "808-333-4444",
     "website": "https://DistantLand.github.io",
@@ -30,14 +30,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Gaming",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "troubleshooting",
       "keywords": [
       ]
     },
