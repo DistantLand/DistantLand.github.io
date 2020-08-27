@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nathaniel Chen",
     "label": "Student",
-    "picture": "https://DistantLand.github.io/images/face0.jpg",
+    "picture": "https://DistantLand.github.io/images/ee.jpg",
     "email": "nchen01@aurora.edu",
     "phone": "808-333-4444",
     "website": "https://DistantLand.github.io",
@@ -30,9 +30,9 @@
   },
   "interests": [
     {
-      "name": "Gaming",
+      "name": "gaming",
       "keywords": [
-        "Arduino",
+        "PC",
         "TI MSP430"
       ]
     },
@@ -42,42 +42,40 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "maintenance",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
+   
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+       
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora, IL",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -86,29 +84,18 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Goodwill Industries LLC",
+      "position": "Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Donation Attendant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Recieve donations in the for mof clothes, old items, books, and furniture",
+        "Price furniture, assist customers with their donations"
       ]
     }
+    
   ],
   "volunteer": [
     {
