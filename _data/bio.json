@@ -3,10 +3,10 @@
     "name": "Nathaniel Chen",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "nchen01@aurora.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://DistantLand.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I plan on graduating during the spring of 2021.",
     "location": {
       "address": "",
       "postalCode": "60440",
@@ -18,23 +18,14 @@
       {
         "network": "github",
         "username": "DistantLand",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/DistantLand"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
+      
     ]
   },
   "interests": [
